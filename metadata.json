@@ -1,0 +1,6 @@
+{
+  "name": "GeoBiling",
+  "description": "GeoBiling - 3D Glossy landing page for downloading the innovative GeoBiling app. Featuring premium mobile layouts, beautiful interactions, and direct APK download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
