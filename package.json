@@ -1,6 +1,7 @@
 {
   "name": "react-example",
   "private": true,
+  "homepage": "https://realshibsankarsarkar.github.io/GeoBiling.in",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
